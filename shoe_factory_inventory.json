@@ -1,0 +1,43 @@
+{
+    "pu_leather": {
+        "Black": 500.0,
+        "Brown": 250.0,
+        "Tan": 200.0,
+        "Maroon": 150.0,
+        "Golden": 100.0
+    },
+    "rubber_sole": {
+        "Shoes": 200,
+        "Slippers": 300
+    },
+    "buckles": {
+        "Gold": 500,
+        "Silver": 400,
+        "Antique Brass": 250,
+        "Black": 300
+    },
+    "ties": {
+        "Black": 300,
+        "Brown": 250,
+        "Beige": 200,
+        "Red": 150
+    },
+    "heels": {
+        "Shoes": {
+            "1.5 inch": 120,
+            "2.0 inch": 150,
+            "3.0 inch": 100,
+            "4.0 inch": 80
+        },
+        "Slippers": {
+            "0.5 inch (Flat)": 200,
+            "1.0 inch": 180,
+            "2.0 inch": 120,
+            "1.5": 200
+        }
+    },
+    "finished_production": {
+        "Shoes": 0,
+        "Slippers": 0
+    }
+}
